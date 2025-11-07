@@ -80,7 +80,7 @@ export const siteConfig = {
       achievements: [
         "Focused on Cloud, DevOps, and Machine Learning projects",
         "Built hands-on projects integrating Azure, Jenkins, and Docker",
-        "Presented 'Spam Mail Detection using ML' as final year project",
+        "nilkanth miyani",
       ],
     },
   ],

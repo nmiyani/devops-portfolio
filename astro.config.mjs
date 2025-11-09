@@ -1,7 +1,12 @@
 import { defineConfig } from 'astro/config';
-import tailwindcss from "@tailwindcss/vite";
+import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: 'https://www.nilkanthprojects.site',
   base: '/',
+  integrations: [
+    tailwind({
+      applyBaseStyles: true,
+    }),
+  ],
 });

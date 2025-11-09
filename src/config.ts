@@ -28,12 +28,13 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
     "Terraform",
     "Ansible",
     "Azure",
-    "GitLab CI/CD",
+    "AWS"
+    "Git",
     "Linux",
     "Nginx",
     "Cloudflare",
     "Python",
-    "Bash Scripting"
+    "Bash"
   ],
 
   projects: [
@@ -46,7 +47,7 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
     }
   ],
 
-  experience: [
+  certifications: [
     {
       company: "Edureka",
       title: "DevOps Engineer - GenAI Program",

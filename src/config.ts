@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Nilkanth Miyani",
-  title: "DevOps Engineer",
+  title: "DevOps and Cloud Engineer",
   description: "Portfolio of Nilkanth Miyani — DevOps Engineer specialized in Cloud, CI/CD, and Automation.",
   accentColor: "#1d4ed8",
 
@@ -8,11 +8,11 @@ export const siteConfig = {
     email: "miyaninilkanth2@gmail.com",
     linkedin: "https://linkedin.com/in/nilkanthmiyani",
     twitter: "https://x.com/nilkanthmiyani",
-    github: "https://github.com/nmiyani",
+    github: "https://github.com/nilkanthmiyani",
   },
 
   aboutMe:
-    "I am a DevOps Engineer passionate about automation, cloud infrastructure, and CI/CD pipelines. I enjoy optimizing developer workflows, building scalable systems, and using modern DevOps tools like Docker, Kubernetes, Jenkins, and Terraform. Experienced in Azure Cloud, GitLab CI/CD, and container orchestration.",
+    "I’m a DevOps and Cloud Engineer currently pursuing my B.E. in Information Technology. I focus on building reliable cloud infrastructure and automating deployment workflows to make systems scalable, consistent, and easier to manage. I have hands-on experience with Azure, Docker, Kubernetes, Terraform, Jenkins, Prometheus, and Grafana. I enjoy working with containerized environments, CI/CD pipelines, and infrastructure as code to deliver repeatable and stable environments. Learning-by-doing motivates me the most — understanding how systems work internally and improving them step-by-step. I’m open to opportunities where I can contribute, collaborate, and continue growing in DevOps and Cloud Engineering.",
 
   skills: [
     "Jenkins",
@@ -34,8 +34,8 @@ export const siteConfig = {
       name: "DevOps End-to-End Portfolio Project",
       description:
         "Deployed a complete DevOps workflow including VM setup, load balancer routing, containerization using Docker, orchestration using Kubernetes, and CI/CD automation.",
-      link: "#", // Update with repo link when ready
-      skills: ["Docker", "Kubernetes", "Nginx", "GitHub Actions", "Azure"]
+      link: "https://github.com/NilkanthMiyani/devops-portfolio",
+      skills: ["Docker", "Kubernetes", "Nginx", "Jenkins", "Azure"]
     }
   ],
 
@@ -80,7 +80,7 @@ export const siteConfig = {
       achievements: [
         "Focused on Cloud, DevOps, and Machine Learning projects",
         "Built hands-on projects integrating Azure, Jenkins, and Docker",
-        "nilkanth miyani",
+        "Emerging Technologies under Code Unnati Program, a CSR initiative of SAP and implemented by Edunet Foundation.",
       ],
     },
   ],

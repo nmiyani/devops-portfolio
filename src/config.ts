@@ -84,7 +84,7 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
     {
       school: "Gujarat Technological University",
       degree: "Bachelor of Engineering in Computer Engineering",
-      dateRange: "2021 - 2025",
+      dateRange: "2022 - 2026",
       achievements: [
         "Focused on Cloud, DevOps, and Machine Learning projects",
         "Built hands-on projects integrating Azure, Jenkins, and Docker",

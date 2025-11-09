@@ -28,7 +28,7 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
     "Terraform",
     "Ansible",
     "Azure",
-    "AWS"
+    "AWS",
     "Git",
     "Linux",
     "Nginx",

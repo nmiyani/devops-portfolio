@@ -12,13 +12,7 @@ export const siteConfig = {
   },
 
  aboutMe: `
-I’m a DevOps and Cloud Engineer currently pursuing my B.E. in Information Technology. I’m focused on building reliable cloud infrastructure and automating deployment workflows to make systems faster, scalable, and easier to manage.
-
-I’ve worked with tools like Azure, Kubernetes, Docker, Terraform, Jenkins, Prometheus, and Grafana, and enjoy designing CI/CD pipelines, container-based environments, and infrastructure as code.
-
-What motivates me the most is the process of learning-by-building. I like breaking things, understanding how they work internally, and fixing them better than before. I believe improvement happens step-by-step, and I’m committed to growing with consistency rather than shortcuts.
-
-I’m open to opportunities where I can contribute to real-world systems, learn from experienced engineers, and keep improving my craft.
+I’m a DevOps and Cloud Engineer who enjoys building scalable infrastructure and automating deployment workflows. I work with Kubernetes, Docker, GitLab CI/CD, Jenkins, Terraform, and Ansible to create reliable systems that are easy to deploy, monitor, and improve. I learn by building and refining step-by-step, and I’m always exploring better ways to make systems faster, cleaner, and more resilient.
 `,
 
   skills: [

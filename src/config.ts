@@ -11,9 +11,10 @@ export const siteConfig = {
     github: "https://github.com/nilkanthmiyani",
   },
 
- aboutMe: `
-I’m a DevOps and Cloud Engineer who enjoys building scalable infrastructure and automating deployment workflows. I work with Kubernetes, Docker, GitLab CI/CD, Jenkins, Terraform, and Ansible to create reliable systems that are easy to deploy, monitor, and improve. I learn by building and refining step-by-step, and I’m always exploring better ways to make systems faster, cleaner, and more resilient.
+aboutMe: `
+I’m a DevOps and Cloud Engineer who focuses on building scalable infrastructure and automating deployment workflows. I work with Kubernetes, Docker, GitLab CI/CD, Jenkins, Terraform, and Ansible to create reliable systems that are easy to deploy, monitor, and improve. I learn by building, breaking, and refining — always aiming to make systems faster, cleaner, and more resilient.
 `,
+
 
 skills: [
   // CI/CD & Automation
